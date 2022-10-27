@@ -2,3 +2,15 @@ Install libraries.
 In the encrypt.py file, line 26: set the path of directory you want to encrypt
 In the decrypt.py file, line 14: set the path of directory you want to decrypt with the key generated with the encrypt.py
 Once the encrypt.py file is executed, a key would be created in order to decrypt the files
+
+
+     __             ___
+      // )    ___--""    "-.
+ \ |,"( /`--""              `.    
+  \/ o                        \
+  (   _.-.              ,'"    ;  
+   |\"   /`. \  ,      /       |    MAISY RAT
+   | \  ' .'`.; |      |       \.______________________________
+     _-'.'    | |--..,,,\_    \________------------""""""""""""
+    '''"   _-'.'       ___"-   )
+          '''"        '''---~""
